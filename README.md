@@ -1,7 +1,6 @@
 School Management System
-
 Project Overview
-This is a lightweight, command-line-based School Management System developed as part of the Z02DT – Software and Databases module. The system provides a user-friendly interface to manage core school entities, including students, teachers, courses, and their registrations. It is built using Python for the core logic and SQLite for persistent data storage.
+This is a lightweight, command-line-based School Management System. The system provides a user-friendly interface to manage core school entities, including students, teachers, courses, and their registrations. It is built using Python for the core logic and SQLite for persistent data storage.
 +3
 
 Key Features
